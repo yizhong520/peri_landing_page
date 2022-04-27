@@ -36,7 +36,8 @@
         "url": "https://github.com/StartBootstrap/startbootstrap-landing-page.git"
     },
     "dependencies": {
-        "bootstrap": "5.1.3"
+        "bootstrap": "5.1.3",
+        "firebase": "^9.6.11"
     },
     "devDependencies": {
         "autoprefixer": "10.4.4",
